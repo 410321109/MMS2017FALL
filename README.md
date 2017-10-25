@@ -8,9 +8,9 @@
 ★ purple <br/>
 ★ white <br/>
 
-1.blue
-2.purple
-3.white
+1.blue <br/>
+2.purple <br/>
+3.white <br/>
 
 
 
